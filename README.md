@@ -1,7 +1,7 @@
 # 🌐 Site Institucional – LCN Oxigênio
 
 <p align="center">
-  <img src="https://i.postimg.cc/tgvCLLXw/68747470733a2f2f692e706f7374696d672e63632f7838647a327762772f666163686164612e77656270.webp" width="380">
+  <img src="https://i.postimg.cc/wM7NCX8Q/Chat-GPT-Image-16-de-nov-de-2025-10-32-11.png" width="420">
 </p>
 
 ---
@@ -12,33 +12,56 @@
 ---
 
 ## 🧠 Sobre o Projeto  
-Este site institucional foi desenvolvido **especialmente para a empresa LCN Oxigênio**, localizada na cidade de **Araraquara – SP**.
+Este site institucional foi desenvolvido **sob demanda real**, a pedido do empresário responsável pela **LCN Oxigênio**, empresa localizada em **Araraquara – SP**.  
 
-O projeto foi solicitado diretamente pelo empresário responsável, com o objetivo de criar uma **landing page moderna, funcional e responsiva**, capaz de apresentar os serviços e produtos da empresa de forma clara, profissional e acessível para seus clientes.
+O objetivo do projeto foi criar uma **Landing Page moderna, clara e eficiente**, capaz de fortalecer a presença digital da empresa, apresentar seus produtos/serviços de forma organizada e facilitar o contato com clientes.
+
+O projeto demonstra habilidades essenciais para atuação como **Desenvolvedora Front-End**, como:
+
+- Criação de interfaces profissionais  
+- Design responsivo para diferentes dispositivos  
+- Aplicação de boas práticas de layout e usabilidade  
+- Organização de conteúdo empresarial  
+- Implementação de componentes interativos  
+- Comunicação direta com cliente real  
+
+Este trabalho agrega bastante ao portfólio por unir **design + desenvolvimento + experiência real com demanda de cliente**.
 
 ---
 
-## ✨ Principais Recursos
+## ✨ Principais Recursos Implementados
 
-- 📱 **Layout totalmente responsivo (desktop e mobile)**  
-- 🖼️ **Carrossel de imagens em destaque**  
-- 🛒 **Seção de produtos organizada**  
-- 💳 **Informações sobre formas de pagamento**  
-- ❓ **FAQ interativo com perguntas frequentes**  
-- 💬 **Botão de contato direto via WhatsApp**  
-- 🔝 Navegação clara e intuitiva  
+- 📱 **Layout 100% responsivo** (mobile-first)
+- 🖼️ **Carrossel de imagens** utilizando Swiper.js
+- 🛒 **Seção de produtos** com destaque visual
+- 💳 **Formas de pagamento** apresentadas de forma simples e objetiva
+- ❓ **FAQ interativo** com perguntas frequentes
+- 💬 **Botão de WhatsApp fixo** para contato rápido
+- 🎨 Identidade visual alinhada às cores da empresa
+- 🔝 Navegação intuitiva e leve
+- ⚙️ Código organizado e fácil de manter
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **Swiper.js** (carrossel)  
-- **Font Awesome** (ícones)  
+- **HTML5** → estrutura semântica  
+- **CSS3** → layout, responsividade e estilos  
+- **JavaScript** → interatividade e lógica do FAQ  
+- **Swiper.js** → carrossel moderno e fluido  
+- **Font Awesome** → ícones  
+- **Flexbox / Responsividade** → adaptação a todos os dispositivos  
 
 ---
 
+## 📸 Banner de Apresentação
+
+<p align="center">
+  <img src="https://i.postimg.cc/wM7NCX8Q/Chat-GPT-Image-16-de-nov-de-2025-10-32-11.png" width="420">
+</p>
+
+---
+
+## 📁 Estrutura do Projeto
 
 
