@@ -1,8 +1,9 @@
 # 🌐 Site Institucional – LCN Oxigênio
 
 <p align="center">
-  <img src="https://i.postimg.cc/wM7NCX8Q/Chat-GPT-Image-16-de-nov-de-2025-10-32-11.png" width="420">
+  <img src="https://i.postimg.cc/HkVrKyj7/Chat-GPT-Image-16-de-nov-de-2025-19-18-21.png" width="420">
 </p>
+
 
 ---
 
