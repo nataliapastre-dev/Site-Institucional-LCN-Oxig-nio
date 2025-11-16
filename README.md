@@ -54,11 +54,6 @@ Este trabalho agrega bastante ao portfólio por unir **design + desenvolvimento 
 
 ---
 
-## 📸 Banner de Apresentação
-
-<p align="center">
-  <img src="https://i.postimg.cc/wM7NCX8Q/Chat-GPT-Image-16-de-nov-de-2025-10-32-11.png" width="420">
-</p>
 
 ---
 
